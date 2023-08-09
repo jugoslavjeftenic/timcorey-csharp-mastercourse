@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T03_01_HelloWorld", "T03_01
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T03_05_HelloWorldInNet5", "T03_05_HelloWorldInNet5\T03_05_HelloWorldInNet5.csproj", "{F2E6436B-0311-4892-8826-AA961C2B1443}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T03_07_HelloWorld", "T03_07_HelloWorld\T03_07_HelloWorld.csproj", "{3E01AB88-7D38-445B-B3BB-792E44010811}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{F2E6436B-0311-4892-8826-AA961C2B1443}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F2E6436B-0311-4892-8826-AA961C2B1443}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F2E6436B-0311-4892-8826-AA961C2B1443}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E01AB88-7D38-445B-B3BB-792E44010811}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E01AB88-7D38-445B-B3BB-792E44010811}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E01AB88-7D38-445B-B3BB-792E44010811}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E01AB88-7D38-445B-B3BB-792E44010811}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
