@@ -11,9 +11,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T03_07_HelloWorld", "T03_07
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T04_02_GreetingApp", "T04_02_GreetingApp\T04_02_GreetingApp.csproj", "{651C797E-6F66-4E1B-AB49-DBDAA634FFC7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T05_02_StringVariables", "T05_02_StringVariables\T05_02_StringVariables.csproj", "{E34EBF5B-4A90-4953-8EEC-831F1FA4ABF6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T05_02_StringVariables", "T05_02_StringVariables\T05_02_StringVariables.csproj", "{E34EBF5B-4A90-4953-8EEC-831F1FA4ABF6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T05_03_IntVariables", "T05_03_IntVariables\T05_03_IntVariables.csproj", "{A327D2AB-2881-4078-8094-F3CDEAEC4835}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T05_03_IntVariables", "T05_03_IntVariables\T05_03_IntVariables.csproj", "{A327D2AB-2881-4078-8094-F3CDEAEC4835}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T05_04_DoubleVariables", "T05_04_DoubleVariables\T05_04_DoubleVariables.csproj", "{C106EC7B-EA5A-409C-BCB2-D77FFFC8D9B5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{A327D2AB-2881-4078-8094-F3CDEAEC4835}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A327D2AB-2881-4078-8094-F3CDEAEC4835}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A327D2AB-2881-4078-8094-F3CDEAEC4835}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C106EC7B-EA5A-409C-BCB2-D77FFFC8D9B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C106EC7B-EA5A-409C-BCB2-D77FFFC8D9B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C106EC7B-EA5A-409C-BCB2-D77FFFC8D9B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C106EC7B-EA5A-409C-BCB2-D77FFFC8D9B5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
