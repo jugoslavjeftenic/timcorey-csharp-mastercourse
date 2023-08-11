@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T05_07_NullVariables", "T05
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T05_08_HomeworkVariables", "T05_08_HomeworkVariables\T05_08_HomeworkVariables.csproj", "{11FD3A4E-CB6C-49FA-995B-64EEE0F3EC1B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T05_09_DateTimeVariables", "T05_09_DateTimeVariables\T05_09_DateTimeVariables.csproj", "{BD0D2281-BDBC-4336-8FBF-154D70D37DCF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{11FD3A4E-CB6C-49FA-995B-64EEE0F3EC1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{11FD3A4E-CB6C-49FA-995B-64EEE0F3EC1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{11FD3A4E-CB6C-49FA-995B-64EEE0F3EC1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD0D2281-BDBC-4336-8FBF-154D70D37DCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD0D2281-BDBC-4336-8FBF-154D70D37DCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD0D2281-BDBC-4336-8FBF-154D70D37DCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD0D2281-BDBC-4336-8FBF-154D70D37DCF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
