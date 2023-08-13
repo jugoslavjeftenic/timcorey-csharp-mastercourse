@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T05_10_DateOnlyVariables", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T05_11_TimeOnlyVariables", "T05_11_TimeOnlyVariables\T05_11_TimeOnlyVariables.csproj", "{6A2D57B1-F870-480F-A750-FA1C325FB5BD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T05_12_TypeConversions", "T05_12_TypeConversions\T05_12_TypeConversions.csproj", "{6ACAF417-E0E4-4AAA-9643-AA3607885E52}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{6A2D57B1-F870-480F-A750-FA1C325FB5BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6A2D57B1-F870-480F-A750-FA1C325FB5BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6A2D57B1-F870-480F-A750-FA1C325FB5BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6ACAF417-E0E4-4AAA-9643-AA3607885E52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ACAF417-E0E4-4AAA-9643-AA3607885E52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ACAF417-E0E4-4AAA-9643-AA3607885E52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ACAF417-E0E4-4AAA-9643-AA3607885E52}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
