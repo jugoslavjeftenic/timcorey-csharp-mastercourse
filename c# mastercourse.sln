@@ -29,6 +29,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T05_09_DateTimeVariables", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T05_10_DateOnlyVariables", "T05_10_DateOnlyVariables\T05_10_DateOnlyVariables.csproj", "{4041C13F-4F60-44F6-AD4F-2EB55501054C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T05_11_TimeOnlyVariables", "T05_11_TimeOnlyVariables\T05_11_TimeOnlyVariables.csproj", "{6A2D57B1-F870-480F-A750-FA1C325FB5BD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{4041C13F-4F60-44F6-AD4F-2EB55501054C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4041C13F-4F60-44F6-AD4F-2EB55501054C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4041C13F-4F60-44F6-AD4F-2EB55501054C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A2D57B1-F870-480F-A750-FA1C325FB5BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A2D57B1-F870-480F-A750-FA1C325FB5BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A2D57B1-F870-480F-A750-FA1C325FB5BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A2D57B1-F870-480F-A750-FA1C325FB5BD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
