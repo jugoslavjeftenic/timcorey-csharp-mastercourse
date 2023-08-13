@@ -17,15 +17,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T05_03_IntVariables", "T05_
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T05_04_DoubleVariables", "T05_04_DoubleVariables\T05_04_DoubleVariables.csproj", "{C106EC7B-EA5A-409C-BCB2-D77FFFC8D9B5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T05_05_DecimalVariables", "T05_05_DecimalVariables\T05_05_DecimalVariables.csproj", "{B8C76BB2-A2EB-48ED-A92F-22C7D352B65E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T05_05_DecimalVariables", "T05_05_DecimalVariables\T05_05_DecimalVariables.csproj", "{B8C76BB2-A2EB-48ED-A92F-22C7D352B65E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T05_06_BoolVariables", "T05_06_BoolVariables\T05_06_BoolVariables.csproj", "{98620C68-0C43-467B-9188-D20A9352A447}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T05_06_BoolVariables", "T05_06_BoolVariables\T05_06_BoolVariables.csproj", "{98620C68-0C43-467B-9188-D20A9352A447}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T05_07_NullVariables", "T05_07_NullVariables\T05_07_NullVariables.csproj", "{488C8D19-07AE-42D1-8154-88DE1A79E656}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T05_07_NullVariables", "T05_07_NullVariables\T05_07_NullVariables.csproj", "{488C8D19-07AE-42D1-8154-88DE1A79E656}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T05_08_HomeworkVariables", "T05_08_HomeworkVariables\T05_08_HomeworkVariables.csproj", "{11FD3A4E-CB6C-49FA-995B-64EEE0F3EC1B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T05_08_HomeworkVariables", "T05_08_HomeworkVariables\T05_08_HomeworkVariables.csproj", "{11FD3A4E-CB6C-49FA-995B-64EEE0F3EC1B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T05_09_DateTimeVariables", "T05_09_DateTimeVariables\T05_09_DateTimeVariables.csproj", "{BD0D2281-BDBC-4336-8FBF-154D70D37DCF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T05_09_DateTimeVariables", "T05_09_DateTimeVariables\T05_09_DateTimeVariables.csproj", "{BD0D2281-BDBC-4336-8FBF-154D70D37DCF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T05_10_DateOnlyVariables", "T05_10_DateOnlyVariables\T05_10_DateOnlyVariables.csproj", "{4041C13F-4F60-44F6-AD4F-2EB55501054C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,10 @@ Global
 		{BD0D2281-BDBC-4336-8FBF-154D70D37DCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BD0D2281-BDBC-4336-8FBF-154D70D37DCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BD0D2281-BDBC-4336-8FBF-154D70D37DCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4041C13F-4F60-44F6-AD4F-2EB55501054C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4041C13F-4F60-44F6-AD4F-2EB55501054C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4041C13F-4F60-44F6-AD4F-2EB55501054C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4041C13F-4F60-44F6-AD4F-2EB55501054C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
