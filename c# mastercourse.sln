@@ -43,6 +43,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T06_04_SwitchStatements", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T06_05_HomeworkConditionalStat", "T06_05_HomeworkConditionalStat\T06_05_HomeworkConditionalStat.csproj", "{D932342D-1678-4D06-81BF-3D8847906C12}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T07_HomeworkStudentCheck", "T07_HomeworkStudentCheck\T07_HomeworkStudentCheck.csproj", "{054FE2D0-52F6-49F4-928A-8DE8711D99B0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +131,10 @@ Global
 		{D932342D-1678-4D06-81BF-3D8847906C12}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D932342D-1678-4D06-81BF-3D8847906C12}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D932342D-1678-4D06-81BF-3D8847906C12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{054FE2D0-52F6-49F4-928A-8DE8711D99B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{054FE2D0-52F6-49F4-928A-8DE8711D99B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{054FE2D0-52F6-49F4-928A-8DE8711D99B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{054FE2D0-52F6-49F4-928A-8DE8711D99B0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
