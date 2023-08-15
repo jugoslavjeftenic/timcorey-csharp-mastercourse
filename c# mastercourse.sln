@@ -27,13 +27,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T05_08_HomeworkVariables", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T05_09_DateTimeVariables", "T05_09_DateTimeVariables\T05_09_DateTimeVariables.csproj", "{BD0D2281-BDBC-4336-8FBF-154D70D37DCF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T05_10_DateOnlyVariables", "T05_10_DateOnlyVariables\T05_10_DateOnlyVariables.csproj", "{4041C13F-4F60-44F6-AD4F-2EB55501054C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T05_10_DateOnlyVariables", "T05_10_DateOnlyVariables\T05_10_DateOnlyVariables.csproj", "{4041C13F-4F60-44F6-AD4F-2EB55501054C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T05_11_TimeOnlyVariables", "T05_11_TimeOnlyVariables\T05_11_TimeOnlyVariables.csproj", "{6A2D57B1-F870-480F-A750-FA1C325FB5BD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T05_11_TimeOnlyVariables", "T05_11_TimeOnlyVariables\T05_11_TimeOnlyVariables.csproj", "{6A2D57B1-F870-480F-A750-FA1C325FB5BD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T05_12_TypeConversions", "T05_12_TypeConversions\T05_12_TypeConversions.csproj", "{6ACAF417-E0E4-4AAA-9643-AA3607885E52}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T05_12_TypeConversions", "T05_12_TypeConversions\T05_12_TypeConversions.csproj", "{6ACAF417-E0E4-4AAA-9643-AA3607885E52}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T05_13_HomeworkTypeConversion", "T05_13_HomeworkTypeConversion\T05_13_HomeworkTypeConversion.csproj", "{BF402719-FE5D-49CD-8E2E-87F05552598A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T05_13_HomeworkTypeConversion", "T05_13_HomeworkTypeConversion\T05_13_HomeworkTypeConversion.csproj", "{BF402719-FE5D-49CD-8E2E-87F05552598A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T06_02_BasicIf", "T06_02_BasicIf\T06_02_BasicIf.csproj", "{920D1A38-0CA0-4C8D-BFD8-C508D875B267}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,6 +107,10 @@ Global
 		{BF402719-FE5D-49CD-8E2E-87F05552598A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BF402719-FE5D-49CD-8E2E-87F05552598A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BF402719-FE5D-49CD-8E2E-87F05552598A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{920D1A38-0CA0-4C8D-BFD8-C508D875B267}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{920D1A38-0CA0-4C8D-BFD8-C508D875B267}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{920D1A38-0CA0-4C8D-BFD8-C508D875B267}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{920D1A38-0CA0-4C8D-BFD8-C508D875B267}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
