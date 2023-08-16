@@ -45,13 +45,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T06_05_HomeworkConditionalS
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T07_HomeworkStudentCheck", "T07_HomeworkStudentCheck\T07_HomeworkStudentCheck.csproj", "{054FE2D0-52F6-49F4-928A-8DE8711D99B0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T08_02_DoLoop", "T08_02_DoLoop\T08_02_DoLoop.csproj", "{A7001598-F51D-4AFE-BD78-B32AD1F74D18}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T08_02_DoLoop", "T08_02_DoLoop\T08_02_DoLoop.csproj", "{A7001598-F51D-4AFE-BD78-B32AD1F74D18}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T08_03_HomeworkDoLoop", "T08_03_HomeworkDoLoop\T08_03_HomeworkDoLoop.csproj", "{0F93BA22-88A2-4465-AEB7-4500153ADAC8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T08_03_HomeworkDoLoop", "T08_03_HomeworkDoLoop\T08_03_HomeworkDoLoop.csproj", "{0F93BA22-88A2-4465-AEB7-4500153ADAC8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T08_04_Arrays", "T08_04_Arrays\T08_04_Arrays.csproj", "{01D8ABA1-825B-46B4-81F9-C36F1336F3D0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T08_04_Arrays", "T08_04_Arrays\T08_04_Arrays.csproj", "{01D8ABA1-825B-46B4-81F9-C36F1336F3D0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T08_05_HomeworkArrays", "T08_05_HomeworkArrays\T08_05_HomeworkArrays.csproj", "{89BAB13D-017C-453C-B76D-5816FA67EFE5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T08_05_HomeworkArrays", "T08_05_HomeworkArrays\T08_05_HomeworkArrays.csproj", "{89BAB13D-017C-453C-B76D-5816FA67EFE5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T08_06_Lists", "T08_06_Lists\T08_06_Lists.csproj", "{6D7FA97D-B0E8-45E3-B2B8-8F4A5E791E45}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -159,6 +161,10 @@ Global
 		{89BAB13D-017C-453C-B76D-5816FA67EFE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{89BAB13D-017C-453C-B76D-5816FA67EFE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{89BAB13D-017C-453C-B76D-5816FA67EFE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D7FA97D-B0E8-45E3-B2B8-8F4A5E791E45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D7FA97D-B0E8-45E3-B2B8-8F4A5E791E45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D7FA97D-B0E8-45E3-B2B8-8F4A5E791E45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D7FA97D-B0E8-45E3-B2B8-8F4A5E791E45}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
