@@ -61,6 +61,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T08_08_Dictionaries", "T08_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T08_09_HomeworkDictionaries", "T08_09_HomeworkDictionaries\T08_09_HomeworkDictionaries.csproj", "{72C65B77-EA42-4F17-B46E-DABC40E787D5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T08_10_ForLoops", "T08_10_ForLoops\T08_10_ForLoops.csproj", "{1BE6851D-FDA0-4CBE-A9C7-9E5689272469}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -183,6 +185,10 @@ Global
 		{72C65B77-EA42-4F17-B46E-DABC40E787D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{72C65B77-EA42-4F17-B46E-DABC40E787D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{72C65B77-EA42-4F17-B46E-DABC40E787D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BE6851D-FDA0-4CBE-A9C7-9E5689272469}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BE6851D-FDA0-4CBE-A9C7-9E5689272469}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BE6851D-FDA0-4CBE-A9C7-9E5689272469}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BE6851D-FDA0-4CBE-A9C7-9E5689272469}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
