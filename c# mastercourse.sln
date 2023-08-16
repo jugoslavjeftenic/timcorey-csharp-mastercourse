@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T08_03_HomeworkDoLoop", "T0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T08_04_Arrays", "T08_04_Arrays\T08_04_Arrays.csproj", "{01D8ABA1-825B-46B4-81F9-C36F1336F3D0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T08_05_HomeworkArrays", "T08_05_HomeworkArrays\T08_05_HomeworkArrays.csproj", "{89BAB13D-017C-453C-B76D-5816FA67EFE5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{01D8ABA1-825B-46B4-81F9-C36F1336F3D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{01D8ABA1-825B-46B4-81F9-C36F1336F3D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{01D8ABA1-825B-46B4-81F9-C36F1336F3D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89BAB13D-017C-453C-B76D-5816FA67EFE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89BAB13D-017C-453C-B76D-5816FA67EFE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89BAB13D-017C-453C-B76D-5816FA67EFE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89BAB13D-017C-453C-B76D-5816FA67EFE5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
