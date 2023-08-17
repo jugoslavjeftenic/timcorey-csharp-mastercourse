@@ -71,6 +71,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T08_13_HomeworkForEachLoops
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T09_02_Methods", "T09_02_Methods\T09_02_Methods.csproj", "{9120401E-1CB2-4CE6-AF60-CE7F9F00147F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T09_08_HomeworkMethods", "T09_08_HomeworkMethods\T09_08_HomeworkMethods.csproj", "{5C69A012-D400-4017-8F60-C46FA4F4B201}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -213,6 +215,10 @@ Global
 		{9120401E-1CB2-4CE6-AF60-CE7F9F00147F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9120401E-1CB2-4CE6-AF60-CE7F9F00147F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9120401E-1CB2-4CE6-AF60-CE7F9F00147F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C69A012-D400-4017-8F60-C46FA4F4B201}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C69A012-D400-4017-8F60-C46FA4F4B201}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C69A012-D400-4017-8F60-C46FA4F4B201}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C69A012-D400-4017-8F60-C46FA4F4B201}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
