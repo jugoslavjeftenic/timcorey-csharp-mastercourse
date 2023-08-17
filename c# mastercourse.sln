@@ -57,13 +57,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T08_06_Lists", "T08_06_List
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T08_07_HomeworkLists", "T08_07_HomeworkLists\T08_07_HomeworkLists.csproj", "{A1401352-6B72-43F6-95CD-8D9D32CEC706}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T08_08_Dictionaries", "T08_08_Dictionaries\T08_08_Dictionaries.csproj", "{EF0D5020-4DE9-48EC-9357-D6D97516BF11}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T08_08_Dictionaries", "T08_08_Dictionaries\T08_08_Dictionaries.csproj", "{EF0D5020-4DE9-48EC-9357-D6D97516BF11}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T08_09_HomeworkDictionaries", "T08_09_HomeworkDictionaries\T08_09_HomeworkDictionaries.csproj", "{72C65B77-EA42-4F17-B46E-DABC40E787D5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T08_09_HomeworkDictionaries", "T08_09_HomeworkDictionaries\T08_09_HomeworkDictionaries.csproj", "{72C65B77-EA42-4F17-B46E-DABC40E787D5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T08_10_ForLoops", "T08_10_ForLoops\T08_10_ForLoops.csproj", "{1BE6851D-FDA0-4CBE-A9C7-9E5689272469}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T08_10_ForLoops", "T08_10_ForLoops\T08_10_ForLoops.csproj", "{1BE6851D-FDA0-4CBE-A9C7-9E5689272469}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T08_11_HomeworkForLoops", "T08_11_HomeworkForLoops\T08_11_HomeworkForLoops.csproj", "{8A870511-9268-4998-B74D-E8BB69B992F4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T08_11_HomeworkForLoops", "T08_11_HomeworkForLoops\T08_11_HomeworkForLoops.csproj", "{8A870511-9268-4998-B74D-E8BB69B992F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T08_12_ForEachLoops", "T08_12_ForEachLoops\T08_12_ForEachLoops.csproj", "{63CB0B28-DD96-4A66-A9E4-86C66955F155}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -195,6 +197,10 @@ Global
 		{8A870511-9268-4998-B74D-E8BB69B992F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8A870511-9268-4998-B74D-E8BB69B992F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8A870511-9268-4998-B74D-E8BB69B992F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63CB0B28-DD96-4A66-A9E4-86C66955F155}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63CB0B28-DD96-4A66-A9E4-86C66955F155}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63CB0B28-DD96-4A66-A9E4-86C66955F155}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63CB0B28-DD96-4A66-A9E4-86C66955F155}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
