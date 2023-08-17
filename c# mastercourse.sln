@@ -63,6 +63,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T08_09_HomeworkDictionaries
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T08_10_ForLoops", "T08_10_ForLoops\T08_10_ForLoops.csproj", "{1BE6851D-FDA0-4CBE-A9C7-9E5689272469}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T08_11_HomeworkForLoops", "T08_11_HomeworkForLoops\T08_11_HomeworkForLoops.csproj", "{8A870511-9268-4998-B74D-E8BB69B992F4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -189,6 +191,10 @@ Global
 		{1BE6851D-FDA0-4CBE-A9C7-9E5689272469}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1BE6851D-FDA0-4CBE-A9C7-9E5689272469}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1BE6851D-FDA0-4CBE-A9C7-9E5689272469}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A870511-9268-4998-B74D-E8BB69B992F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A870511-9268-4998-B74D-E8BB69B992F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A870511-9268-4998-B74D-E8BB69B992F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A870511-9268-4998-B74D-E8BB69B992F4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
